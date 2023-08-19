@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @ShreyaDasmahapatra
-- 👀 I’m interested in  Data Engineering
-- 🌱 I’m currently learning Data Visualization
-- 📫 How to reach me  dasmahapatrashreya1234@gmail.com
+Hello, I am Shreya 👋
+Here's a little bit about myself...
+😄 My pronouns are: She/Her
+🔭 I’m currently working as ETL Developer @Tata Consultancy Services
+💬 I'm looking to work as Data Engineer or Data Analyst.
+🤘 You can find various data engineering projects on my profile
+🧑🏻‍🏫 I am currenly learning
+            MS Office usig Chat GPT
+            Azure Cloud (Already worked with AWS)
+🤘 Here are my few projects:
+End-To-End Data Engineering Project using Python and AWS
+NEWS API Data Pipeline using Airflow
+Real-Time Data Processing Using Kafka
 
-<!---
-ShreyaDasmahapatra/ShreyaDasmahapatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Certifications:
+    Azure AZ 900 Fundamentals
+    Associate Google Cloud
