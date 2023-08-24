@@ -1,4 +1,3 @@
-### Hello, I am Shreya 👋
 <!--
 ### Hello, I am Shreya 👋
 
@@ -14,3 +13,5 @@ Here's a little bit about myself:
 - 🤘 Certifications:
                 - Azure AZ 900 Fundamentals ...
                 - Associate Google Cloud<br> ...
+
+--!>
