@@ -1,4 +1,4 @@
-#####Hello, I am Shreya 👋
+##### Hello, I am Shreya 👋
 ####Here's a little bit about myself...
 😄 My pronouns are: She/Her
 🔭 I’m currently working as ETL Developer @Tata Consultancy Services
