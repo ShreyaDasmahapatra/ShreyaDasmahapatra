@@ -1,17 +1,17 @@
-##### Hello, I am Shreya 👋<br>
-### Here's a little bit about myself...
-😄 My pronouns are: She/Her
-🔭 I’m currently working as ETL Developer @Tata Consultancy Services
-💬 I'm looking to work as Data Engineer or Data Analyst.
-🤘 You can find various data engineering projects on my profile
-🧑🏻‍🏫 I am currenly learning
-            MS Office usig Chat GPT
-            Azure Cloud (Already worked with AWS)
-🤘 Here are my few projects:
-End-To-End Data Engineering Project using Python and AWS
-NEWS API Data Pipeline using Airflow
-Real-Time Data Processing Using Kafka
+### Hello, I am Shreya 👋
+Here's a little bit about myself...<br>
+😄 My pronouns are: She/Her<br>
+🔭 I’m currently working as ETL Developer @Tata Consultancy Services<br>
+💬 I'm looking to work as Data Engineer or Data Analyst.<br>
+🤘 You can find various data engineering projects on my profile<br>
+🧑🏻‍🏫 I am currenly learning<br>
+            MS Office usiNg Chat GPT<br>
+            AWS Cloud<br>
+🤘 Here are my few projects:<br>
+End-To-End Data Engineering Project using Python and AWS<br>
+NEWS API Data Pipeline using Airflow<br>
+Real-Time Data Processing Using Kafka<br><br><br>
 
-Certifications:
-    Azure AZ 900 Fundamentals
-    Associate Google Cloud
+Certifications:<br>
+    Azure AZ 900 Fundamentals<br>
+    Associate Google Cloud<br>
