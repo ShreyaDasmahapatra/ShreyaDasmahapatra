@@ -1,4 +1,4 @@
-<!--
+<!-
 ### Hello, I am Shreya 👋
 
 Here's a little bit about myself:
@@ -14,4 +14,4 @@ Here's a little bit about myself:
                 - Azure AZ 900 Fundamentals ...
                 - Associate Google Cloud<br> ...
 
--->
+->
