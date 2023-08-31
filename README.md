@@ -1,4 +1,4 @@
-<!-
+<!--
 ### Hello, I am Shreya 👋
 
 Here's a little bit about myself:
@@ -8,10 +8,10 @@ Here's a little bit about myself:
 - 🤘 You can find various data engineering projects on my profile ...
 
 - 🧑🏻‍🏫 I am currenly learning ...
-            - MS Office usiNg Chat GPT
-            - AWS Cloud<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- MS Office usiNg Chat GPT
+&nbsp;&nbsp;&nbsp;&nbsp;- AWS Cloud<br>
 - 🤘 Certifications:
-                - Azure AZ 900 Fundamentals ...
-                - Associate Google Cloud<br> ...
+&nbsp;&nbsp;&nbsp;&nbsp;- Azure AZ 900 Fundamentals ...
+&nbsp;&nbsp;&nbsp;&nbsp;- Associate Google Cloud<br> ...
 
-->
+-->
